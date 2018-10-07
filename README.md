@@ -8,6 +8,7 @@ const TeaListApi = require('tealist');
 let api = new TeaListApi('API Key');
 
 client.on('ready', ()=> {
+  setInterval(function() {
 api.postServers(client.user.id, client.guilds.size);
 }, 900000);
 });
