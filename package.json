@@ -1,0 +1,25 @@
+{
+  "name": "tealist",
+  "version": "0.0.2",
+  "description": "The API for Tea-List.glitch.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTeaCup/tealistapi.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Tea Cup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTeaCup/tealistapi/issues"
+  },
+  "homepage": "https://github.com/TheTeaCup/tealistapi#readme",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
