@@ -1,6 +1,6 @@
 {
   "name": "tealist",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The API for Tea-List.glitch.me",
   "main": "index.js",
   "scripts": {
