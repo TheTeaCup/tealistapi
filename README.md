@@ -15,3 +15,5 @@ api.postServers(client.user.id, client.guilds.size);
 }, 900000);
 });
 ```
+
+[](https://nodei.co/npm/tealist/)
